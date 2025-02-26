@@ -1,0 +1,11 @@
+{
+  "name": "ads-3",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto em javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renata Cardoso Geres",
+  "license": "MIT"
+}

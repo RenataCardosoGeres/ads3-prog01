@@ -1,0 +1,6 @@
+#ignorar
+node_modules/
+
+
+#ignorar 
+package-lock.json
